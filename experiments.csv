@@ -1,0 +1,2 @@
+experiment,epoch,dice,iou,miou,notes
+baseline,0,0,0,0,initial setup
